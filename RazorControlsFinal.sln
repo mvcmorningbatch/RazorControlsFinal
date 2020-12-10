@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorControlsFinal", "RazorControlsFinal\RazorControlsFinal.csproj", "{0DFD53FB-F0BD-47C6-837D-DE96067D6C82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DFD53FB-F0BD-47C6-837D-DE96067D6C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DFD53FB-F0BD-47C6-837D-DE96067D6C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DFD53FB-F0BD-47C6-837D-DE96067D6C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DFD53FB-F0BD-47C6-837D-DE96067D6C82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6F20510-59DE-4D88-B21E-0D98C53A4D1D}
+	EndGlobalSection
+EndGlobal
